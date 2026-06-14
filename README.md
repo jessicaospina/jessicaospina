@@ -21,7 +21,6 @@
 - 🚀 Desarrolladora **Full Stack** enfocada en crear aplicaciones robustas y escalables.
 - 🛠️ Trabajo tanto en **backend** (APIs, lógica de negocio, bases de datos) como en **frontend** (interfaces modernas y usables).
 - 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas
-- 💬 Pregúntame sobre desarrollo web, arquitectura de software
 
 ---
 
